@@ -1,0 +1,38 @@
+[
+    {   "title":"Reputation",
+        "name":"Lelah Nichols",
+        "url":"https://raw.githubusercontent.com/Dreamlaptrinh/Test-C4E/main/img/person1.png",
+        "country":"Troy, MI",
+        "hobby":["clothes","stem"]
+    },
+    {   "title":"New users",
+        "name":"Jesus Weiss",
+        "url":"https://raw.githubusercontent.com/Dreamlaptrinh/Test-C4E/main/img/person2.png",
+        "country":"Fort Worth, TX",
+        "hobby":["headset","gadget","speed","winter"]
+    },  
+    {   "title":"Moderators",
+        "name":"Annie Rice",
+        "url":"https://raw.githubusercontent.com/Dreamlaptrinh/Test-C4E/main/img/person3.png",
+        "country":"Austin, TX",
+        "hobby":["road","mountain","trip","earth","nature"]
+    },  
+    {   "title":"Moderators",
+        "name":"Robert Brower",
+        "url":"https://raw.githubusercontent.com/Dreamlaptrinh/Test-C4E/main/img/person4.png",
+        "country":"Cincinnati, OH",
+        "hobby":["maintenance","gears","frames","repair"]
+    },  
+    {   "title":"Editors",
+        "name":"Amy CampBell",
+        "url":"https://raw.githubusercontent.com/Dreamlaptrinh/Test-C4E/main/img/person5.png",
+        "country":"Warrior, AL",
+        "hobby":["music","disks"]
+    },  
+    {   "title":"Voters",
+        "name":"Anthony S.Morin",
+        "url":"https://raw.githubusercontent.com/Dreamlaptrinh/Test-C4E/main/img/person6.png",
+        "country":"Lyndhurst, NJ",
+        "hobby":["vintage","electric"]
+    }
+]
